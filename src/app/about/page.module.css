@@ -1,0 +1,40 @@
+.about{
+
+}
+.header{
+    width: 90%;
+    max-width:75rem;
+    margin:auto;
+    text-align: center;
+    font-size:1.5rem;
+    color:#ddd6cb;
+}
+.highlight{
+    background:linear-gradient(90deg,#f9572a,#ff8a05);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.main{
+    width: 90%;
+    max-width: 50rem;
+    margin: auto;
+    align-items: center;
+}
+
+.perks{
+    list-style: none;
+    display: flex;
+    gap: 30px;
+    justify-content: space-between;
+    margin: 3rem 0 0 0;
+}
+
+.perks img{
+    width: 12rem;
+    height: 12rem;
+    overflow: hidden;
+}
+.perks p{
+
+}
